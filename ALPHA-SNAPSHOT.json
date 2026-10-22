@@ -1,0 +1,21 @@
+{
+  "version": "alpha",
+  "date": "2026-10-22",
+  "basis": "Versão consolidada antes da organização da Beta 1; inclui a nova pergunta especial sobre sacrifício.",
+  "files": {
+    "assets/crepuscular.png": "11d5c971a8abd5d8abbb447573bc6f42ea8edf4f732fa748b8645486e595c6ec",
+    "assets/diurna.png": "760da08cbad2dc8a36ffa5e9ef21800b4f71b9fb716956188ec1b3804be1b4e2",
+    "assets/estival.png": "ab6fc8f2952e929d76244c3e91d2dbb69938a014382f793a0f7e61b363ac0115",
+    "assets/invernal.png": "cf8b72a57ddadb5b56fc398fb1f24ed7beea240428ce48ac0bd994bc12b3ca06",
+    "assets/leitura.png": "9aabf3fa4abe644a39e57a445d5aa7140911d9ed4aed72229cbe87ab74917bc5",
+    "assets/noturna.png": "6ee60a52372ec5d18e626300fd019f40e13945fe1230e68917f2bafc075dafc3",
+    "assets/outonal.png": "0deefc27421c7c698ee5122375d487bbc20d52f896b5c539f2171583d399f229",
+    "assets/primaveril.png": "06a0052a0cdb5c42fa1dbab18c9e756857dd0bf9dbd0116df686fd04f134f190",
+    "assets/quiz.css": "70213b3d5d86bb63a89909dfcbc31d3b6f7ec86375d7eb971dd303d1f51923c7",
+    "assets/quiz.js": "ed15852467420b2da9a33e462783b975e217d69303ea65c0a0cf1866a9460740",
+    "assets/se-liga.png": "60e8d6b76ab663290b09a2cfd97e4dc73943b4e13c5d1832b204e391faaae23d",
+    "index.html": "acbff6c221f519b8bc9878cab639df85618458cd3f0e145b9cadb5b4ea647ee3",
+    "LEIA-ME.txt": "f9ebe707ece2eda32e2061d0b244a89ae05fc4befc19edff07b638d964d5c057"
+  },
+  "standalone_sha256": "9aba19cf4b2450cfe53079d88aaedced6103623e551504519a57314f8c9bf331"
+}
